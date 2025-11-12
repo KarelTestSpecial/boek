@@ -4,8 +4,8 @@ Dit document beschrijft de beoogde schrijfstijl, toon en stem van het boek. De s
 
 ### **Kernprincipes van de Stijl**
 
-1.  **Meedogenloos Analytisch en Direct**
-    De stijl is klinisch, scherp en onverbloemd. We benoemen de dingen zoals ze zijn, zonder eufemismen. De wereld is een "hel", incompetentie is de "vijand", seksualiteit is een "drug". De taal is precies en snijdt door conventionele beleefdheid heen om tot de kern van het probleem te komen. Er is geen ruimte voor twijfel of ambiguïteit in de diagnose.
+1.  **Diagnostisch, Analytisch en Zonder Oordeel**
+    De stijl is klinisch en scherp, maar cruciaal is dat de analyse wordt gepresenteerd als een **functionele diagnose**, niet als een morele veroordeling. Gevoelige concepten zoals 'incompetentie' worden benaderd als een mechanisch defect, niet als een persoonlijke tekortkoming. De toon is die van een arts die een ziekte beschrijft: precies, direct en met de intentie om te genezen, niet om te beschuldigen. Dit stelt de lezer in staat om de harde waarheden te accepteren zonder in de verdediging te schieten. De confrontatie is gericht op de *mechanismen* van het falen, niet op het individu.
 
 2.  **Autoritair maar Kwetsbaar**
     De stem van de auteur is die van een profeet of een overlever die een harde waarheid heeft gezien. De toon is autoritair en overtuigd, voortkomend uit diepgaande analyse en pijnlijke persoonlijke ervaring. Tegelijkertijd schuwt de tekst de kwetsbaarheid niet. De filosofie is geworteld in echt, doorleefd trauma. Korte, rauwe passages over persoonlijke ervaringen (de mishandeling, de psychiatrie) dienen als bewijslast en geven de abstracte ideeën een verpletterend gewicht. Deze combinatie maakt de autoriteit geloofwaardig.

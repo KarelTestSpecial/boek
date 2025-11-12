@@ -11,8 +11,14 @@ Het concept van een welwillende, almachtige kracht ("609") wordt volledig verwor
 ### 3. **De Opdracht: Zin Creëren door het Oplossen van Problemen**
 Zingeving is geen geschenk, maar een product. Het enige zinvolle doel in een zinloze wereld is het systematisch identificeren en oplossen van de problemen die lijden veroorzaken. Dit gebeurt door het toepassen van de hoogste menselijke vermogens: ratio, wetenschap en technologie. De missie is niet om de hel te *verdragen*, maar om haar, generatie na generatie, steen voor steen, af te breken en te vervangen door iets beters.
 
-### 4. **De Vijand: Incompetentie in Al Haar Vormen**
-De ware vijand is incompetentie. Deze manifesteert zich overal: in falende ouders, in een psychiatrie die zieker maakt in plaats van geneest, in een justitie die onrecht creëert, en in maatschappelijke systemen zoals het neoliberalisme die kortzichtig eigenbelang belonen. Het boek is een frontale aanval op deze incompetentie en stelt dat de strijd van de toekomst niet gaat tussen links en rechts, of geloof en ongeloof, maar tussen competentie en incompetentie.
+### 4. De Vijand: De Anatomie van Incompetentie
+De ware vijand is incompetentie. Het boek definieert dit niet als een moreel falen, maar als een **functioneel defect**: het onvermogen van een systeem (een individu, organisatie of samenleving) om een probleem effectief op te lossen.
+
+Deze incompetentie is geen toeval, maar het resultaat van diepgewortelde en voorspelbare mechanismen die in de menselijke natuur zijn ingebakken:
+- **Cognitieve Valkuilen**: Systematische denkfouten zoals confirmatiebias en groepsdenken die onze perceptie van de realiteit vervormen en leiden tot foute analyses.
+- **Emotionele Blokkades**: Primitieve emoties zoals angst (voor falen, kritiek) en ego (de behoefte om gelijk te hebben) die ons rationele denkvermogen kapen en ons aanzetten tot defensief en kortzichtig gedrag.
+
+De strijd van de toekomst is daarom niet alleen extern (tegen falende systemen) maar ook intern: tegen de ingebouwde beperkingen van onze eigen geest. De aanval op incompetentie is een aanval op deze fundamentele menselijke tekortkomingen.
 
 ### 5. **De Methode: De Hiërarchie van Competentie**
 Een samenleving die de toekomst serieus neemt, moet zich organiseren volgens een functionele hiërarchie gebaseerd op pure competentie. Macht en middelen moeten worden toevertrouwd aan degenen die bewezen hebben de beste probleemoplossers te zijn. Dit is geen pleidooi voor tirannie, maar voor een meritocratie in dienst van de collectieve missie. De plicht van de competente is om te leiden; de plicht van de minder competente is om te leren of te volgen.

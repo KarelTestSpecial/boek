@@ -23,12 +23,9 @@ Dit document schetst de voorgestelde opbouw en hoofdstukindeling. De structuur i
 *Dit deel zoomt in op de ware oorzaak van het lijden: een alomtegenwoordige incompetentie.*
 
 **Hoofdstuk 3: De Anatomie van Incompetentie**
-- **Definitie:** Competentie als het vermogen problemen op te lossen; incompetentie als het onvermogen daartoe, of erger, het creëren van nieuwe problemen.
-- **Case Studies van Incompetentie:**
-    - **Het Gezin:** De incompetente ouder als bron van trauma.
-    - **De Psychiatrie:** De incompetente "hulpverlener" die de ziekte verergert.
-    - **De Staat:** Het incompetente systeem (justitie, politiek) dat onrecht bestendigt.
-- **Conclusie:** Lijden is geen abstract kwaad, maar het concrete product van falende systemen en individuen.
+- **Een Functionele Definitie:** Het hoofdstuk herdefinieert incompetentie niet als een moreel falen, maar als een functioneel defect: het onvermogen om problemen effectief op te lossen.
+- **De Interne Oorzaken: Cognitieve en Emotionele Barrières:** Analyse van de dieperliggende mechanismen die leiden tot incompetentie, zoals cognitieve valkuilen (confirmatiebias, groepsdenken) en emotionele blokkades (angst, ego).
+- **Conclusie:** Incompetentie is geen toeval, maar een voorspelbaar gevolg van de ingebouwde beperkingen van de menselijke psychologie. De eerste stap naar competentie is het herkennen van deze interne vijand.
 
 **Hoofdstuk 4: Het Irrationele Obstakel: Onze Dierlijke Erfenis**
 - **Seksualiteit als Primaire Afleiding:** Analyse van seksualiteit als een dierlijke, irrationele kracht die ons afhoudt van onze hogere, rationele doelen. Het is een "drug" die de realiteit verdoezelt.
