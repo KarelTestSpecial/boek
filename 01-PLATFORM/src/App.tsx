@@ -33,7 +33,7 @@ function App() {
 
   useEffect(() => {
     localStorage.setItem('app-version', version)
-    document.title = version === 'nl' ? 'De Vrije Realiteit' : 'Sovereign Reality'
+    document.title = version === 'nl' ? 'De Vrije Realiteit' : 'Free-ality'
   }, [version])
 
   useEffect(() => {
@@ -223,7 +223,7 @@ function App() {
     'en': [
       {
         id: 'upgrading-humanity',
-        title: 'Upgrading humanity to a Sovereign Reality',
+        title: 'Upgrading humanity to a Free-ality',
         type: 'audio',
         url: `${mediaBaseUrl}/audio/EN/Upgrading_humanity_to_a_Sovereign_Reality.m4a`,
         duration: '22:25'
@@ -265,14 +265,14 @@ function App() {
       },
       {
         id: 'vid-en-supreme',
-        title: 'Sovereign Reality: Supreme Overview',
+        title: 'Free-ality: Supreme Overview',
         type: 'video',
         url: `${mediaBaseUrl}/video/EN/Sovereign_Reality_Supreme_Overview.mp4`,
         duration: '07:38'
       },
       {
         id: 'vid-en-upgrade',
-        title: 'Sovereign Reality: System Upgrade Overview',
+        title: 'Free-ality: System Upgrade Overview',
         type: 'video',
         url: `${mediaBaseUrl}/video/EN/Sovereign_Reality_System_Upgrade_Overview.mp4`,
         duration: '07:14'
@@ -421,7 +421,7 @@ function App() {
             </div>
             <div className="h-4 w-[1px] bg-[#ddd]"></div>
             <span className="text-[10px] uppercase tracking-[0.3em] font-black text-[#555] opacity-80 group-hover:opacity-100 transition-opacity">
-              {version === 'nl' ? 'De Vrije Realiteit' : 'Sovereign Reality'}
+              {version === 'nl' ? 'De Vrije Realiteit' : 'Free-ality'}
             </span>
           </div>
 
@@ -630,7 +630,7 @@ function App() {
             <div className="w-full h-full flex items-center justify-center p-12 lg:p-24 bg-[#fdfdfd] animate-in fade-in zoom-in-95 duration-1000">
               <div className="max-w-3xl text-center">
                 <div className="inline-block px-4 py-1.5 mb-8 rounded-full bg-[#2980b9]/5 border border-[#2980b9]/10 text-[#2980b9] text-[10px] uppercase tracking-[0.4em] font-black animate-pulse">
-                  {version === 'nl' ? 'De Vrije Realiteit' : 'The Sovereign Reality'}
+                  {version === 'nl' ? 'De Vrije Realiteit' : 'Free-ality'}
                 </div>
                 <h1 className="text-5xl lg:text-7xl font-serif text-[#1a1a1a] mb-8 leading-tight">
                   {currentBook.title}
