@@ -87,3 +87,5 @@ The first step has been taken: the honest recognition of the state we are in, wi
 ***
 
 The solution lies in **constructive realism**. Recognizing the hard facts (suffering, lack of an external plan, human fallibility) without falling into cynicism ("everything is hell") or naivety ("everything will be fine"). The problem is serious, but solvable if we ask the right questions.
+
+**A note on the title.** This book carries two names. In Dutch it is *De Vrije Realiteit*—the free reality. In English we call it **Free-ality**: a reality that is free because we make it so. Not free from law—the universe keeps its own immutable rules—but free from the bugs, myths, and inherited scripts that keep suffering in place. A reality becomes "free" when it is knowable, and when we accept the responsibility to improve it. Free-ality is therefore not a promise; it is a task. It begins the moment we stop asking who is to blame for the world as it is, and start building the world as it could be.

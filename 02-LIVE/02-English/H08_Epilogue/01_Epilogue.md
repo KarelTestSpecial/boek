@@ -12,7 +12,7 @@ The scale of this vision may seem paralyzing. But the message of this book is no
 
 It begins with you.
 
-The first step is the hardest. It is the choice for the **Sovereign Reality**. This is the reality in which you are no longer a slave to your legacy code or the system errors of society, but in which you choose the **Law of Convergence**.
+The first step is the hardest. It is the choice for the **Free-ality**. This is the reality in which you are no longer a slave to your legacy code or the system errors of society, but in which you choose the **Law of Convergence**.
 
 Strive to become the most competent version of yourself. Identify your own bugs, optimize your software, and be the architect of your own hardware. When your pursuit of happiness (**Point 1**) coincides with what the world needs to survive (**Point 2**) and you act upon it (**Point 3**), you are no longer part of the problem. You are the solution.
 

@@ -1,4 +1,13 @@
-# Huisstijl: De Lezer - Sovereign Reality
+# Huisstijl: De Lezer - Free-ality
+
+> ## 📌 BESLUIT NAAMHARMONISATIE — 25 augustus 2026 (goedgekeurd door Karel)
+> **Dit besluit is de source of truth voor alle naamgeving in het VT-project.**
+> 1. **"Free-ality"** = de officiële EN-titel van het werk (EN-echo van "De Vrije Realiteit").
+> 2. De NL-titel blijft ongewijzigd: **"De Vrije Realiteit"**.
+> 3. **"Sovereign Reality"** (door AI gekozen, nooit door Karel geratificeerd) is volledig vervallen en mag nergens meer gebruikt worden.
+> 4. "Free-ality" is één keer expliciet gedefinieerd in het werk zelf: H01_Introduction/01_Our-Reality.md, alinea *"A note on the title"*.
+>
+> Alle documenten en teksten zijn op dit besluit geharmoniseerd; nieuwe content volgt uitsluitend deze naamgeving.
 
 ## Kleurenpalet
 - **Dark Mode (Midnight)**: 

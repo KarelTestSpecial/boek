@@ -33,4 +33,4 @@ The world is an unfinished construction site, full of flaws and danger. But it i
 The tools are ready. The foundation has been laid. The rest is up to you.
 
 Go out and create something aligned with reality.
-Go out and build the future of the Sovereign Reality.
+Go out and build the future of the Free-ality.
