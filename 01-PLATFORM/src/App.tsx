@@ -672,7 +672,12 @@ function App() {
                   </div>
                 </div>
                 <button
-                  onClick={() => setSidebarMode('text')}
+                  onClick={() => {
+                    setSidebarMode('text');
+                    if (allChapters.length > 0) {
+                      setActiveChapterId(allChapters[0].id);
+                    }
+                  }}
                   className="mt-16 px-8 py-4 rounded-full bg-[#1a1a1a] text-white text-xs uppercase tracking-[0.2em] font-bold hover:bg-[#2980b9] transition-all shadow-xl hover:shadow-[#2980b9]/20"
                 >
                   {version === 'nl' ? 'Start de Reis' : 'Start the Journey'}
