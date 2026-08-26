@@ -69,7 +69,7 @@ const multiBookData = {};
 for (const [key, dir] of Object.entries(BASE_DIRS)) {
     console.log(`Processing ${key} from ${dir}...`);
     multiBookData[key] = {
-        title: key === 'nl' ? "De Vrije Realiteit" : "Sovereign Reality",
+        title: key === 'nl' ? "De Vrije Realiteit" : "Free-ality",
         subtitle: key.startsWith('en') ? "The Path to Convergence" : "De Weg naar Convergentie",
         author: "Karel",
         sections: getSections(dir)
