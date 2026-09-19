@@ -25,7 +25,7 @@ function interleaveMedia(items: MediaItem[]): MediaItem[] {
 }
 
 function App() {
-  const mediaBaseUrl = 'https://media.githubusercontent.com/media/profdrkdc/boek/main/01-PLATFORM/public';
+  const mediaBaseUrl = 'https://media.githubusercontent.com/media/KarelTestSpecial/boek/main/01-PLATFORM/public';
   const [version, setVersion] = useState(() => localStorage.getItem('app-version') || 'nl')
   const [activeChapterId, setActiveChapterId] = useState<string | null>(null)
   const [sidebarMode, setSidebarMode] = useState<'media' | 'text'>(() => (localStorage.getItem('app-sidebar-mode') as any) || 'media')
