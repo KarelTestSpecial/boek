@@ -1,3 +1,16 @@
+# Publiceert de reader naar de GitHub Pages van DEZE repository.
+#
+# Let op bij een fork (bijv. KarelTestSpecial/boek, een fork van profdrkdc/boek):
+# mergen naar `main` publiceert op de Pages van de fork zelf
+# (https://kareltestspecial.github.io/boek/), nooit op de Pages van de upstream.
+# Eenmalig instellen door iemand met beheerrechten, anders faalt de deploy-stap
+# met "Get Pages site failed. Error: Not Found":
+#   1. Settings -> Pages -> Build and deployment -> Source: GitHub Actions
+#   2. Actions-tab -> workflows enable (staan standaard uit in een fork)
+#   3. Settings -> Actions -> General -> Workflow permissions -> Read and write
+# `enablement: true` op configure-pages is hiervoor geen oplossing: dat vereist
+# een token met administration:write, wat GITHUB_TOKEN niet kan krijgen.
+
 name: Deploy Competente Lezer Platform
 
 on:
